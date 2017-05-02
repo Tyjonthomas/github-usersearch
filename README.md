@@ -1,2 +1,2 @@
-# github-usersearch
-search for users on Github
+# github-user-search
+chrome extension for searching full names on Github
